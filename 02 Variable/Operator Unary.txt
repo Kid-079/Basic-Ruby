@@ -1,0 +1,41 @@
+RUBY OBJECT ORIENTED PROGRAMMING
+
+In Ruby almost everything is an object, everything that Ruby can bind to a variable is an object. thats why ruby is a perfect Object Oriented Programming Language.
+
+Object Oriented Programing Ruby :
+1. Data Encapsulation
+2. Data Abstraction
+3. Polymorphism
+4. Inheritance
+
+
+RUBY BASIC LITERAL
+1. Integer Number
+   123     -> Decimal
+   0123    -> Octal
+   0xff    -> Hexadecimal
+   0b1111  -> Binary
+   ?a      -> Character Code for 'a'
+   ?\n     -> code for newline (0x0a)
+
+2. Floating Number
+   123.3   -> FLoating point value  
+   1.0e6   -> Scientifis Notation
+   4E20    -> do not required
+   4e+20   -> sign before exponential
+
+
+
+
+
+OPERATOR UNARY
+
+Operator Unary adalah operator yang digunakan untuk melakukan operasi matematik yang hanya melibatkan satu buah operan. 
+
+Operator Unary
+
+OPERATOR   ||       OPERASI                          ||  EKSPRESI
+    +      ||  Membuat Nilai Positif                 ||     +x
+    -      ||  Membuat Nilai Negatif                 ||     -x
+    ++     ||  Increment (Menambah nilai dengan 1)   ||    x++               
+    --     ||  Decrement (Mengurangi nilai dengan 1) ||    x--
