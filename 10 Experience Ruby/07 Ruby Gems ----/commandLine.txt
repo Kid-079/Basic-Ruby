@@ -1,0 +1,11 @@
+RUBY GEMS
+
+$ which gem
+$ gem -v
+$ gem --version
+$ gem
+$ gem help commands
+$ gem help examples
+$ gem help env
+$ gem env or gem environment
+$ gem list rails
