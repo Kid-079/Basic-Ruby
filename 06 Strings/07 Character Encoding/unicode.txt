@@ -1,0 +1,7 @@
+UNICODE
+
+UTF-8 encoding, code unit  1 x 1 - 4 byte
+UTF-16 encoding, code unit 2 x 1 - 4 byte
+UTF-32 encoding, code unit 4 x 1 - 4 byte
+	
+Reference : en.wikipedia.org/wiki/Unicode

@@ -1,0 +1,18 @@
+H -> hex string (High nibble first)
+High nibble 
+    A --> A0 | \xA0
+
+h -> hex string (low nibble first)
+Low nibble
+    A --> 0A --> \n --> new line
+
+    
+0x -- \x -> value is hexadecimal
+
+
+
+
+
+
+
+
