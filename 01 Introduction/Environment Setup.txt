@@ -1,0 +1,13 @@
+1. Install Ruby
+   $ sudo apt-get install ruby
+2. Install Code Editor
+3. Check Ruby
+   $ which ruby 
+     output : /usr/bin/ruby
+              /usr/local/bin/ruby
+   $ ruby -v 
+   $ ruby --version
+4. Run Ruby From Command Line
+   $ ruby -h
+   $ ruby --help
+

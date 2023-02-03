@@ -1,0 +1,16 @@
+File Permission
+
+1. Owner Permission
+2. Group Permission
+3. Other Permission
+
+    1  2  3
+   rwxrwxrwx
+
+   r (Read)    = 4
+   w (Write)   = 2 
+   x (Execute) = 1
+
+Example :
+$ chmod 777 hello.rb
+

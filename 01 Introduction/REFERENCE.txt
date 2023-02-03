@@ -1,0 +1,6 @@
+1. Installing Tk Toolkit (FAILED)
+2. Instaling Ruby
+   - Linux
+   - Windows
+   - Mac OS
+3. Associating FIle Types on Windows

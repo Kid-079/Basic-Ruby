@@ -1,0 +1,9 @@
+1. Install Ruby/Tk
+   $ sudo apt install tk-dev
+2. Install
+   $ 
+2. Install Ruby/Tk gem
+   gem install tk
+
+
+# FAILED
