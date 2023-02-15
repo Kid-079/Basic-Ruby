@@ -1,0 +1,29 @@
+EXECUTING RUBY CODE WITH MRUBY
+
+Install mruby
+$ sudo apt install mruby
+
+Execute Source Code
+$ ruby hello.rb
+$ mruby hello.rb
+
+Execute bytecode
+$ mruby -b hello.mrb (-b --> tells the program the file is bytecode)
+
+Compile source code to bytecode (hello.rb --> hello.mrb)
+$ mrbc hello.rb
+
+Read bytecode
+$ hexdump hello.rb
+$ hexdump hello.mrb
+$ hexdump -C hello.rb
+$ hexdump -C hello.mrb
+
+Compile Ruby code to C Code. It will Create a C array 
+$ mrbc -Bhex hello.rb
+
+
+Check Structure Inside Package
+$ tree -L 1
+$ tree -L 2
+$ tree -L 3
