@@ -1,0 +1,29 @@
+Install Rails
+
+ $ sudo apt install ruby-rails
+ $ sudo gem install rails
+ $ sudo gem install rails -v 6.0.x.x   (ubuntu 18.04) FAILED
+ $ sudo gen install rake               (ubuntu 18.04) SUCCESS
+ $ sudo gem install rails -v 5.2.x.x   (ubuntu 18.04) SUCCESS
+
+
+Getting Started
+
+
+1. SERVER
+   Create Rails
+   $ rails new blog
+
+   Run Server
+   $ rails server
+   $ localhost:3000
+
+   Shutdow Server
+   -> ctrl + C
+
+2. DATABASE
+   $ sqlite3 --version
+   
+   
+   
+Reference : https://guides.rubyonrails.org/getting_started.html
