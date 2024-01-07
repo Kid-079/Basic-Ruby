@@ -1,0 +1,80 @@
+ENVIRONMENT SETUP
+
+Install Ruby
+1. $sudo apt install ruby-full
+2. $sudo apt install ruby-build
+3. $sudo apt install ruby-bundler
+
+Install mruby
+1. $sudo apt install mruby
+
+Install GTK, GTK3, ..,
+1. $sudo gem install gtk3
+
+Install Tk 
+1. $sudo apt install tk         (Windows Shell) 
+2. $sudo apt install tk-dev     (Development Files)
+3. $sudo apt install tk8.5      (Ubuntu 18.04 or under)
+4. $sudo apt install tk8.5-dev  (Ubuntu 18.04 or under)
+
+Install Tcl
+1. $sudo apt install tcl        (Windows Shell)
+2. $sudo apt install tcl-dev    (Development Files)
+3. $sudo apt install tcl8.5     (Ubuntu 18.04 or under)
+4. $sudo apt install tcl8.5-dev (Ubuntu 18.04 or under)
+
+Install Rake
+1. $sudo gem install rake
+
+Install Sublime Text
+1. $ sudo snap install sublime-text --classic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPOSITORY
+/etc/apt/source.list
+
+
+
+
+
+
+
+
+
+Reference
+https://www.ruby-toolbox.com/categories/GUI_Frameworks
+
+https://ruby-doc.org/core-mruby/doc/guides/compile_md.html
+
+
+https://stackoverflow.com/questions/37930792/how-to-include-mruby-after-installing-with-rbenv-ruby-build
+
+https://github.com/markets/awesome-ruby
+
+
+https://forums.debian.net//viewtopic.php?f=10&t=102749
+
+https://en.wikibooks.org/wiki/Ruby_Programming/GUI_Toolkit_Modules
+
+https://www.slideserve.com/abba/ruby-gui-toolkits
+
+
+https://stackoverflow.com/questions/37720892/you-dont-have-write-permissions-for-the-var-lib-gems-2-3-0-directory
+
+
+
+rbenv
+https://wiki.archlinux.org/title/Rbenv
+https://github.com/rbenv/rbenv/wiki
