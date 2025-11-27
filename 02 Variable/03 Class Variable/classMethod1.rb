@@ -13,7 +13,7 @@
 # puts A.hello
 
 
-2
+#2
 class A
 	def self.hello
 		"Hello, Hello!"		
