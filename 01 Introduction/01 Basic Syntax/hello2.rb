@@ -1,6 +1,7 @@
 #! /usr/bin/env ruby
 
 puts "Hello Hello"
+#puts "Never Give Up On Your Dreams, No Matter How Painful And Difficult Your Journey"
 
 
 =begin
