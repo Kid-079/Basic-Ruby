@@ -2,6 +2,8 @@
 
 def hello
 	puts "Hello, Hello!"
+	#puts "If I Cannot Do Great Things, I Can Do Small Things In A Great Way"
+	
 end
 
 hello
