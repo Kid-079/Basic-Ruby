@@ -9,6 +9,7 @@ def array(names, number, *data)
 end
 
 names = "ABC"
+#names = "FIGHTING"
 puts names
 
 puts array(0,1)
