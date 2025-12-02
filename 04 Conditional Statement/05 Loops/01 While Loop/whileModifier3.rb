@@ -4,7 +4,8 @@ a = 1.0
 
 begin 
 	print "Value --> " + "%.1f" % a + " Point"
-	puts ".NICE"
+	puts "NICE"
+	#puts ".NICE"
 	a += 0.1
 end while a < 1.5
 
