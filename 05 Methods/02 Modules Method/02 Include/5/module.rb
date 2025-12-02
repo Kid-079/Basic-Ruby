@@ -6,4 +6,4 @@ module A
 	end
 end
 
-puts A.to_bin(567)
+puts A.to_bin(7179111100)
