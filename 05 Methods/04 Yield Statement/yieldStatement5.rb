@@ -9,3 +9,4 @@ def string
 end
 
 string {puts "Hello Hello"}
+#string {puts "If I Cannot Do Great Things, I Can Do Small Things In A Great Way"}
