@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "PUTU AYU\n"
+string = "GETUK KEJU\n"
 
 def string.-@
 	to_s
