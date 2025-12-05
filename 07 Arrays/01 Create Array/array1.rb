@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-# CREATE ARRAY
+# CREATE ARRAY (EMPTY ARRAY)
 string = Array.new(10)
 #string = Array.new(15)
 #string = Array.new(20)
