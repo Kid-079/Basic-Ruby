@@ -1,6 +1,9 @@
 #! /usr/local/bin/ruby
 
-number = Array("A" "B" "C")
+name = Array("A" "B" "C")
+#name = Array("R" "E" "M" "P" "E" "Y" "E" "K")
+#name = Array("M" "O" "L" "E" "N")
+#name = Array("B" "A" "K" "W" "A" "N")
 
-print number
+print name
 print "\n"
