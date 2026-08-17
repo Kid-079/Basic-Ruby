@@ -2,26 +2,26 @@
 
 class Identity
 	def initialize(names, ages, address)
-		@a_names = names
-		@a_ages = ages
-		@a_address = address
+		@subject_names = names
+		@subject_ages = ages
+		@subject_address = address
 	end
 
 	# PUBLIC METHOD
 	def names
-		@a_names
+		@subject_names
 	end
 
 	# PRIVATE METHOD
 	private
 	def ages
-		@a_ages
+		@subject_ages
 	end
 
 	# PROTECTED METHOD
 	protected
 	def address
-		@a_address
+		@subject_address
 	end
 end
 
