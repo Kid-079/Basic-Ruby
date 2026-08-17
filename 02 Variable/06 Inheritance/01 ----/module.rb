@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Character
 	attr_accessor :names, :status
 end
 
