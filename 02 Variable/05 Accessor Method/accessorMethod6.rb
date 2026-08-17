@@ -10,7 +10,7 @@ class Variable
 	end
 
 	def text
-		"#{names} Like Moons And Suns Bringing The High Hopes, With The Certainty Of Tides, I Will Still Rise"
+		"#{names} Like Moons And Suns Bringing The High Hopes, With The Certainty Of Tides, I Will Still Fight"
 	end
 
 	# SETTER METHOD
