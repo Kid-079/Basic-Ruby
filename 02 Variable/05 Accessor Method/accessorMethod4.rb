@@ -1,28 +1,28 @@
 #! /usr/local/bin/ruby
 
-class A
+class Character
 	def initialize(names)
-		@a_names = names
+		@character_names = names
 	end
 
 	def show_name
-		@a_names
+		@character_names
 	end
 
 	def change_name(names)
-		@a_names = names
+		@character_names = names
 	end
 
 	def text
-		"#{@a_names} Hello, Hello"
+		"#{@character_names} Hello, Hello"
 	end
 
 end
 
-person = A.new("name_A")
+person = Character.new("Write__Name_1")
 puts person.text
 # puts person.show_name
 
-person.change_name("name_B")
+person.change_name("Write__Name_2")
 # puts person.show_name
 puts person.text
