@@ -2,4 +2,4 @@
 
 print "Type a text here : "
 a = gets
-puts "Hello, " + a
+puts "Message Text -> " + a
