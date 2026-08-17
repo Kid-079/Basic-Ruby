@@ -4,7 +4,7 @@ require 'monitor'
 
 a = Monitor.new{title "File"}
 Monitor.new {
-	text "\n Hello, Hello \n"
+	text "\n Every Storm Calms Down, When You Stay True To Yourself \n"
 	pack
 }
 
