@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Dreams
 	def initialize(names)
 		@a_names = names
 	end
@@ -10,11 +10,11 @@ class A
 	end
 
 	def text
-		"#{@a_names} Hello, Hello"
+		"#{@a_names} Dont Quit Your Day Dream"
 	end
 end
 
-person1 = A.new("name_A")
+person1 = Dreams.new("Write_Some_Name_1")
 
 puts person1.show_name
 puts person1.text
