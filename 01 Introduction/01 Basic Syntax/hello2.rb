@@ -1,6 +1,6 @@
 #! /usr/bin/env ruby
 
-puts "Hello Hello"
+puts "Dreams Get You Started, Discipline Keeps You Going"
 #puts "Never Give Up On Your Dreams, No Matter How Painful And Difficult Your Journey"
 
 
