@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Beauty
 	def initialize(char)
 		@a_char = char
 	end
@@ -10,5 +10,5 @@ class A
 	end
 end
 
-data = A.new("ABCDE")
+data = Beauty.new("ABCDE")
 puts data.string
