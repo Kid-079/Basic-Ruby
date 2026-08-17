@@ -10,7 +10,7 @@ class Feeling
 	end
 end
 
-person1 = Feeling.new("name_character_A")
-person2 = Feeling.new("name_character_B")
+person1 = Feeling.new("write_character_name_1")
+person2 = Feeling.new("write_character_name_2")
 
 puts person1.text
