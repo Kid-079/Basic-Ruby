@@ -2,26 +2,26 @@
 
 class Character
 	def initialize(names, ages, address)
-		@a_names = names
-		@a_ages = ages
-		@a_address = address
+		@character_names = names
+		@character_ages = ages
+		@character_address = address
 	end
 
 	# PUBLIC METHOD
 	def names
-		@a_names
+		@character_names
 	end
 
 	# PRIVATE METHOD
 	private
 	def ages
-		@a_ages
+		@character_ages
 	end
 
 	# PROTECTED METHOD
 	protected
 	def address
-		@a_address
+		@character_address
 	end
 end
 
