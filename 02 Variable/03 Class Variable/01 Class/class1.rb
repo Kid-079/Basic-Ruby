@@ -6,7 +6,7 @@ class Variable
 	end
 
 	def text
-		puts "Be Kind And Feel Happy, " + @name + "!"
+		puts "Do Your Best And Forget The Rest, " + @name + "!"
 	end
 end
 
