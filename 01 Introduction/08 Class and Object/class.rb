@@ -1,13 +1,13 @@
 #! /usr/local/bin/ruby
 
 # Class
-class A
-	def hello
-		puts "Hello Hello"
-		puts "Hello, Hello"
+class Journey
+	def dreams
+		puts "Enjoy Life And Do Whats Make You Happy"
+		puts "Every Strom Calms Down When You Stay True To Yourself"
 	end
 end
 
 # Create Object
-data = A.new
-puts data.hello
+data = Journey.new
+puts data.dreams
