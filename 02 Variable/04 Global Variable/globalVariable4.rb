@@ -1,6 +1,6 @@
 #! /usr/bin/env ruby
 
-class A
+class Variable
 
 	p self.ancestors
 	p self.singleton_class.ancestors
