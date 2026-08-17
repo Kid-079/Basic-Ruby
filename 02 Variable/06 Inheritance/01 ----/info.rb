@@ -4,9 +4,9 @@ $LOAD_PATH = '.'
 
 require 'module'
 
-class B < A
+class Address < Character
 	attr_accessor :info, :location
 end
 
-data = A.new
+data = Character.new
 puts data.respond_to?(:info)
