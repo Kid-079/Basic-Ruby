@@ -10,5 +10,5 @@ class Journey
 	end
 end
 
-dreams = Journey.new("A")
+dreams = Journey.new("Always Be Kinder Than You Feel")
 dreams.expression
