@@ -10,5 +10,5 @@ class Beauty
 	end
 end
 
-data = Beauty.new("EVARYTHING HAS BEAUTY, BUT NOT EVERYONE SEES IT!")
+data = Beauty.new("EVERYTHING HAS BEAUTY, BUT NOT EVERYONE SEES IT!")
 puts data.string
