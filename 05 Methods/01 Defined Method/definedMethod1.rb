@@ -1,10 +1,10 @@
 #! /usr/local/bin/ruby
 
-def hello
-	puts "Hello, Hello!"	
+def passion
+	puts "Do Your Best And Forget The Rest!"	
 end
 
-hello
+passion
 
 =begin
 	
