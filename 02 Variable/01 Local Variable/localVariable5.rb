@@ -2,28 +2,28 @@
 
 STRING = 'EVERYTHING HAS BEAUTY, BUT NOT EVERYONE SEES IT!'              # Variable Constant
 
-class Value_A
-	STRING = proc {'EFGH'}
+class Journey
+	STRING = proc {'ALWAYS BE KINDER THAN YOU FEEL'}
 	def data
-		::STRING + '1234'    # Variable Global  
+		::STRING + '01234'    # Variable Global  
 	end
 end
 
-class Value_B
-	STRING = '5678'
+class Dreams
+	STRING = '56789'
 	def data
 		STRING               # Variable Local
 	end
 end
 
-puts Value_A.new.data
-# puts Value_B.new.data
+puts Journey.new.data
+# puts Dreams.new.data
 
-# puts Object::STRING + Value_B::STRING
-# puts Value_B::STRING + STRING
-# puts Value_A::STRING
-# puts Value_A::STRING.call + Value_B::STRING
+# puts Object::STRING + Dreams::STRING
+# puts Dreams::STRING + STRING
+# puts Journey::STRING
+# puts Journey::STRING.call + Dreams::STRING
 
 
-# puts Value_B::STRING
-puts Value_A::STRING.call
+# puts Dreams::STRING
+puts Journey::STRING.call
