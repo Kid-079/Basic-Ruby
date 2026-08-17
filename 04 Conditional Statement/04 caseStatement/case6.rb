@@ -1,13 +1,13 @@
 #! /usr/local/bin/ruby
 
-value1 = "A"
-value2 = "A"
+value1 = "Moons"
+value2 = "Moons"
 
 variable = case
-	when value1 == "A" && value2 == "B"
-		"A and B"
-	when value1 == "A" , value2 == "B"
-		"A or B"
+	when value1 == "Moons" && value2 == "Suns"
+		"Moons and Suns"
+	when value1 == "Moons" , value2 == "Suns"
+		"Moons or Suns"
 	else 
 		"UNDEFINED"
 end
