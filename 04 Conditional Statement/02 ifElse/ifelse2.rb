@@ -4,9 +4,9 @@ a = 4
 b = 4
 
 if a === 0 || b === 5
-	puts "A"
+	puts "Moons"
 elsif a === 5 || b === 0
-	puts "B"
+	puts "Suns"
 else
 	puts "Data Not Found"
 end
