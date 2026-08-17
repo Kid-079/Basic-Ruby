@@ -6,7 +6,7 @@ class Journey
 	end
 
 	def expression
-		puts "Always Be Kinder Than You Feel, " + @a_string
+		puts "Enjoy Life And Do Whats Make You Happy, " + @a_string
 	end
 end
 
