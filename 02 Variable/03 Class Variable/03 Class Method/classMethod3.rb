@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Character
 	def initialize(names, ages, address)
 		@a_names = names
 		@a_ages = ages
@@ -25,7 +25,7 @@ class A
 	end
 end
 
-data = A.new("A", "B", "C")
+data = Character.new("Write__Name_1", "not_show", "not_detected")
 puts data.names
 puts data.ages
 puts data.address
