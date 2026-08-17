@@ -14,8 +14,8 @@ end
 
 
 # Create Object
-person1 = Feeling.new("name_character_A", "7111179100")
-person2 = Feeling.new("name_character_B", "8410577101")
+person1 = Feeling.new("write_character_name_1", "7111179100")
+person2 = Feeling.new("write_character_name_2", "8410577101")
 
 # Call Methods
 person1.show_data()
