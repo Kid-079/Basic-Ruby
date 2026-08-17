@@ -2,7 +2,7 @@
 
 class Variable
 	def names
-		@names = "write_some_name_1"
+		@names = "write__name_1"
 	end
 end
 
