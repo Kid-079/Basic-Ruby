@@ -1,20 +1,20 @@
 #! /usr/local/bin/ruby
 
-class A
+class Struggle
 	def Blessed
 		string1 = "I Am Not Blessed Cause Everything Went Right"
 		puts string1
 	end
 end
 
-class B < A
+class Spirit < Beauty
 	def Fighting
 		string2 = "I Am Blessed Cause I Got Fight"
 		puts string2
 	end
 end
 
-messages = B.new
+messages = Spirit.new
 messages.Blessed
 messages.Fighting
 
