@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Variable
 	# VARIABLE CONSTANT
 	VALUE1 = 15
 	VALUE2 = 25
@@ -11,7 +11,7 @@ class A
 end
 
 # Create Object
-object = A.new()
+object = Variable.new()
 object.show_value
 
 
