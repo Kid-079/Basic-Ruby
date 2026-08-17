@@ -10,7 +10,7 @@ class Journey
 	end
 end
 
-person = Journey.new("Write_Some_Name")
+person = Journey.new("Write__Name")
 
 puts person.text
 
