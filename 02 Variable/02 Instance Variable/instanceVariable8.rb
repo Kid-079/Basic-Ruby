@@ -14,8 +14,8 @@ end
 
 
 # Create Object
-person1 = Variable.new("Write_Some_Name_1", "02468")
-person2 = Variable.new("Write_Some_Name_2", "13579")
+person1 = Variable.new("Write__Name_1", "02468")
+person2 = Variable.new("Write__Name_2", "13579")
 
 # Call Methods
 person1.show_data()
