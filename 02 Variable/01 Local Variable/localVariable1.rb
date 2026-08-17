@@ -1,10 +1,10 @@
 #! /usr/local/bin/ruby
 
-class A
+class Journey
 	def initialize
-		puts "Hello, Hello!"
+		puts "Everything Has Beauty, But Not Everyone Sees It!"
 	end
 end
 
-files = A.new
+files = Journey.new
 # puts files
