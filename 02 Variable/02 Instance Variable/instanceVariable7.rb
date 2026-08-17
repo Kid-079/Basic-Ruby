@@ -14,10 +14,10 @@ class Passion
 	end
 end
 
-person = Passion.new("Write_Some_Name_1")
+person = Passion.new("Write__Name_1")
 puts person.text
 puts person.show_name
 
-person = Passion.new("Write_Some_Name_2")
+person = Passion.new("Write__Name_2")
 puts person.text
 puts person.show_name
