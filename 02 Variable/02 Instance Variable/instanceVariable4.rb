@@ -10,8 +10,8 @@ class Journey
 	end
 end
 
-person1 = Journey.new("Write_Some_Name_1")
-person2 = Journey.new("Write_Some_Name_2")
+person1 = Journey.new("Write__Name_1")
+person2 = Journey.new("Write__Name_2")
 
 puts person1.text
 puts person2.text
