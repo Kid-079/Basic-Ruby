@@ -5,13 +5,13 @@ class Name
 		@name = person 
 	end
 
-	def character
+	def text
 		puts "Hello, " + @name + "!"
 	end
 end
 
-a = Name.new("name_character_A")
-a.character
+character1 = Name.new("Write__Name_1")
+character1.text
 
-b = Name.new("name_character_B")
-b.character
+character2 = Name.new("Write__Name_2")
+character2.text
