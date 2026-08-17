@@ -1,12 +1,12 @@
 #! /usr/local/bin/ruby
 
-class A
+class Passion
 	def data
-		"ABCDE"
+		"A DREAM DOESNT BECOME REALITY THROUGH MIRACLE. THATS NEED EFFORT, DETERMINATION AND HARD WORK"
 	end
 end
 
-string = A.new
+string = Passion.new
 
 p string.singleton_class     # Access
 p string.singleton_methods   # Extract
