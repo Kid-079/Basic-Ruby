@@ -1,15 +1,15 @@
-class A
-	attr_accessor :a_names
+class Character
+	attr_accessor :character_names
 
 	def initialize(names)
-		@a_names = names
+		@character_names = names
 	end
 
 	def text 
-		"#{@a_names} Hello, Hello"
+		"#{@character_names} Do What You Love, Love What You Do"
 	end
 end
 
-person = A.new("name_A")
+person = Character.new("Write__Name_1")
 puts person.text
-puts person.a_names
+puts person.character_names
