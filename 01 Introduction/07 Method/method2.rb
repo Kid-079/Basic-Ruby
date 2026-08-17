@@ -6,4 +6,4 @@ def data(a = "Wonderful", b = "12345")
 end
 
 data
-data "ABCDE", "abcde"
+data "GREAT", "spirit"
