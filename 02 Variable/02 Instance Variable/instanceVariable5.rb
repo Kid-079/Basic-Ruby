@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class Dreams
+class Stronger
 	def initialize(names)
 		@a_names = names
 	end
@@ -14,8 +14,8 @@ class Dreams
 	end
 end
 
-person1 = Dreams.new("Write_Some_Text_1 -> ")
-person2 = Dreams.new("Write_Some_Text_2 -> ")
+person1 = Stronger.new("Write_Some_Text_1 -> ")
+person2 = Stronger.new("Write_Some_Text_2 -> ")
 
 puts person1.text
 puts person2.text
