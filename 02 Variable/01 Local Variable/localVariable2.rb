@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Journey
 	def initialize(string)
 		@a_string = string
 	end
@@ -10,5 +10,5 @@ class A
 	end
 end
 
-hello = A.new("A")
-hello.expression
+dreams = Journey.new("A")
+dreams.expression
