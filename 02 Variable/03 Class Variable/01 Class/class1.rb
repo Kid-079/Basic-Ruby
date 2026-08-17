@@ -1,17 +1,17 @@
 #! /usr/local/bin/ruby
 
-class A
+class Variable
 	def initialize(person)
 		@name = person 
 	end
 
-	def hello
+	def text
 		puts "Hello, " + @name + "!"
 	end
 end
 
-a = A.new("A")
-a.hello
+character1 = Variable.new("Write__Name_1")
+character1.text
 
-b = A.new("B")
-b.hello
+character2 = Variable.new("Write__Name_2")
+character2.text
