@@ -1,7 +1,7 @@
 #! /usr/local/bin/ruby
 
-def a
+def passion
 	yield
 end
 
-a {puts "Hello, Hello!"}
+passion {puts "Do Your Best And Forget The Rest!"}
