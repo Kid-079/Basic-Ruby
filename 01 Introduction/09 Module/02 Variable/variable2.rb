@@ -13,5 +13,5 @@ include Variable
 end
 
 data = Warriors.new
-Variable.value_A
+Variable.dreams
 data.string
