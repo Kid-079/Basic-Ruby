@@ -1,6 +1,6 @@
 #! /usr/bin/ruby
 
-puts "Hello, Hello"
+puts "When Things Change Inside You, Things Change Around You"
 #puts "Get Up, Stand Up, Dont Give Up"
 
 END {
