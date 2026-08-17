@@ -5,7 +5,7 @@ class Variable
 		@name = person 
 	end
 
-	def text
+	def hello
 		puts "Hello, " + @name + "!"
 	end
 end
