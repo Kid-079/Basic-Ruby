@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Variable
 	attr_accessor :shape, :length, :width
 
 	def initialize(s, l, w)
@@ -10,7 +10,7 @@ class A
 	end
 
 	def text
-		"#{names} Hello, Hello"
+		"#{names} Like Moons And Suns Bringing The High Hopes, With The Certainty Of Tides, I Will Still Rise"
 	end
 
 	# SETTER METHOD
@@ -25,7 +25,7 @@ class A
 	end
 end
 
-data = A.new('Square', '5 cm', '5 cm')
+data = Variable.new('Square', '5 cm', '5 cm')
 puts data.structure
 
 data.change_structure('Square', '5 cm', '10 cm')
