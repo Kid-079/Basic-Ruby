@@ -1,10 +1,10 @@
 #! /usr/local/bin/ruby
 
 class Identity
-	@@total_A = 0
+	@@total_subject = 0
 	def initialize(names,address)
-		@a_names = names
-		@a_address  = address
+		@subject_names = names
+		@subject_address  = address
 	end
 end
 
