@@ -1,12 +1,12 @@
 #! /usr/local/bin/ruby
 
-class A
+class Character
 	attr_accessor :names, :status
 end
 
-class B
+class Address
 	attr_accessor :info, :location
 end
 
-data = A.new
+data = Character.new
 puts data.respond_to?(:status)
