@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Variable
 	@@shape = 0
 
 	def initialize
@@ -13,10 +13,10 @@ class A
 end
 
 puts "BEFORE COUNT"
-puts A.total_shape
+puts Variable.total_shape
 
-shape1 = A.new
-shape2 = A.new
+shape1 = Variable.new
+shape2 = Variable.new
 
 puts "AFTER COUNT"
-puts A.total_shape
+puts Variable.total_shape
