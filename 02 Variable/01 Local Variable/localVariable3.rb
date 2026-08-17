@@ -1,21 +1,21 @@
 #! /usr/local/bin/ruby
 
 class Journey
-	def Dreams
+	def Passion
 		string1 = "Every Storm Calms Down, When You Stay True To Yourself!"
 		puts string1
 	end
 end
 
-class Spirit < Dreams
+class Dreams < Passion
 	def Beauty
-		string2 = "Good Morning"
+		string2 = "Everything Has Beauty, But Not Everyone Sees It!"
 		puts string2
 	end
 end
 
-messages = Spirit.new
-messages.Dreams
+messages = Dreams.new
+messages.Passion
 messages.Beauty
 
 
