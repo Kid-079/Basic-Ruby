@@ -1,17 +1,17 @@
 #! /usr/local/bin/ruby
 
-class A
-	attr :hello, true
+class Journey
+	attr stronger:, true
 end
 
-expression = A.new
-expression.hello = "Hello, Hello"
+expression = Journey.new
+expression.stronger = "Everyday Is A Gift, Thats Why We Call It The Present"
 
-puts expression.hello
+puts expression.stronger
 puts expression
 
 
-# A.instance_methods - Object.instance_methods 
+# Journey.instance_methods - Object.instance_methods 
 # puts Object.instance_methods
 
 
