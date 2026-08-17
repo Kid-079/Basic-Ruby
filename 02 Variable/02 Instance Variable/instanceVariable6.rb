@@ -14,7 +14,7 @@ class Stronger
 	end
 end
 
-person1 = Stronger.new("Write_Some_Name_1")
+person1 = Stronger.new("Write__Name_1")
 
 puts person1.show_name
 puts person1.text
