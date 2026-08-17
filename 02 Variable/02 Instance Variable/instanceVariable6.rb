@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class Dreams
+class Stronger
 	def initialize(names)
 		@a_names = names
 	end
@@ -10,11 +10,11 @@ class Dreams
 	end
 
 	def text
-		"#{@a_names} Dont Quit Your Day Dream"
+		"#{@a_names} Believe In Yourself And You Will Be Unstoppable"
 	end
 end
 
-person1 = Dreams.new("Write_Some_Name_1")
+person1 = Stronger.new("Write_Some_Name_1")
 
 puts person1.show_name
 puts person1.text
