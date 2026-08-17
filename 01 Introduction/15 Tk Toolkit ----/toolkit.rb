@@ -5,7 +5,7 @@ require 'tk'
 a = Monitor.new
 
 Monitor.new(a) do
-	text "\n Hello, Hello \n"
+	text "\n Always Be Kinder Than You Feel \n"
 	pack { padx 10; pady 10; side 'left'}
 end
 
