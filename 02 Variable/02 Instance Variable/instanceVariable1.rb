@@ -1,10 +1,10 @@
 #! /usr/local/bin/ruby
 
-class A
+class Journey
 	def names
-		@names = "name_A"
+		@names = "Write_Name"
 	end
 end
 
-hello = A.new 
-puts hello.names
+dreams = Journey.new 
+puts dreams.names
