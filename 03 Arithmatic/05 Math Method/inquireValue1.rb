@@ -6,6 +6,6 @@ number = 2
 if number != 2
 	puts 20 / number
 else
-	puts "Hello"
-	#puts "Really Nice"
+	puts "Conflict Number!!!"
+	#puts "Conflict!! Choose Another Number"
 end
