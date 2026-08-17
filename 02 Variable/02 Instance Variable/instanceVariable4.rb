@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Journey
 	def initialize(names)
 		@a_names = names
 	end
@@ -10,8 +10,8 @@ class A
 	end
 end
 
-person1 = A.new("name_A")
-person2 = A.new("name_B")
+person1 = Journey.new("Write_Some_Name_1")
+person2 = Journey.new("Write_Some_Name_2")
 
 puts person1.text
 puts person2.text
