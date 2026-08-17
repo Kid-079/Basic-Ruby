@@ -2,7 +2,7 @@
 
 class Journey
 	def names
-		@names = "Write_Some_Name"
+		@names = "Write__Name"
 	end
 end
 
