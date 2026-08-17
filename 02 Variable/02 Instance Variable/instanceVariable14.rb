@@ -14,7 +14,7 @@ class Feeling
 	end
 end
 
-person1 = Feeling.new("write_character_name_1")
+person1 = Feeling.new("write_some_name_1")
 
 puts person1.show_name
 puts person1.text
