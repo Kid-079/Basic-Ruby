@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Variable
 	STRUCTURE = 2
 
 	attr_accessor :shape, :wide
@@ -15,6 +15,6 @@ class A
 	end
 end
 
-value = A.new('Square', 20)
+value = Variable.new('Square', 20)
 puts value  # Call Argument
 p value     # Call Inspect, helpful method for debugging process
