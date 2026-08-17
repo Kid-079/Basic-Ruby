@@ -14,7 +14,7 @@ class Character
 	end
 
 	def text
-		"#{@character_names} Hello, Hello"
+		"#{@character_names} Do What You Love, Love What You Do"
 	end
 
 end
