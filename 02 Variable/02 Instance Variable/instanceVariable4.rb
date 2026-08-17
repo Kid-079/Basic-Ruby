@@ -6,7 +6,7 @@ class Journey
 	end
 
 	def text
-		"Hello, Hello"
+		"Never Let Go Of Your Dreams"
 	end
 end
 
