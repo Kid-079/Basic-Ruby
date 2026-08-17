@@ -15,10 +15,10 @@ class Feeling
 	end
 end
 
-person = Feeling.new("write_some_name_1")
+person = Feeling.new("write__name_1")
 puts person.text
 puts person.show_name
 
-person = Feeling.new("write_some_name_2")
+person = Feeling.new("write__name_2")
 puts person.text
 puts person.show_name
