@@ -2,25 +2,25 @@
 
 
 # 1
-# class A
+# class Journey
 # 	class << self
-# 		def hello
+# 		def silence
 # 			"Work Hard In Silence Let Success Make The Noise"
 # 		end
 # 	end
 # end
 
-# puts A.hello
+# puts Journey.silence
 
 
 #2
-class A
-	def self.hello
+class Journey
+	def self.best
 		"The Best View Comes After The Hardest Climb"		
 	end
 end
 
-puts A.hello
+puts Journey.best
 
 
 =begin
