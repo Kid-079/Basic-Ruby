@@ -10,7 +10,7 @@ class Sensation
 	end
 end
 
-person = Sensation.new("name_character_A")
+person = Sensation.new("write_character_name_1")
 
 puts person.text
 
