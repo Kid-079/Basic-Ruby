@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Variable
 	def initialize(names,address)
 		@a_names   = names
 		@a_address = address
@@ -14,8 +14,8 @@ end
 
 
 # Create Object
-person1 = A.new("name_A", "123")
-person2 = A.new("name_B", "456")
+person1 = Variable.new("Write_Some_Name_1", "02468")
+person2 = Variable.new("Write_Some_Name_2", "13579")
 
 # Call Methods
 person1.show_data()
