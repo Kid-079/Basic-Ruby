@@ -11,7 +11,7 @@ puts expression.inspiration
 puts expression
 
 
-# A.instance_methods - Object.instance_methods 
+# Sentence.instance_methods - Object.instance_methods 
 # puts Object.instance_methods
 
 
