@@ -1,10 +1,10 @@
 #! /usr/local/bin/ruby
 
-class A
+class Variable
 	def names
-		@names = "name_character_A"
+		@names = "write_some_name_1"
 	end
 end
 
-hello = A.new 
-puts hello.names
+character = Variable.new 
+puts character.names
