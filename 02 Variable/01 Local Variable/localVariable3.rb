@@ -1,22 +1,22 @@
 #! /usr/local/bin/ruby
 
-class A
-	def Hello
-		string1 = "Hello, Hello!"
+class Journey
+	def Dreams
+		string1 = "Every Storm Calms Down, When You Stay True To Yourself!"
 		puts string1
 	end
 end
 
-class B < A
-	def Morning
+class Spirit < Dreams
+	def Beauty
 		string2 = "Good Morning"
 		puts string2
 	end
 end
 
-messages = B.new
-messages.Hello
-messages.Morning
+messages = Spirit.new
+messages.Dreams
+messages.Beauty
 
 
 =begin
