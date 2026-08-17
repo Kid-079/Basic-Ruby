@@ -4,13 +4,13 @@ $LOAD_PATH << '.'
 
 require "module"
 
-class A
+class Journey
 include Variable
 	def string
-		puts "Hello Hello"
+		puts "Enjoy Life And Do Whats Make You Happy"
 	end
 end
 
-data = A.new
-Variable.value_A
+data = Journey.new
+Variable.dreams
 data.string
