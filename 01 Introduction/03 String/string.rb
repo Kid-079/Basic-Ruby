@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "Work Hard And Be Nice"
+string = "WORK HARD AND BE NICE"
 
 print string
 print "\n"
