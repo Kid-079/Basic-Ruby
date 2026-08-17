@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-class A
+class Variable
 	STRUCTURE = 2  
 
 	attr_accessor :shape, :wide
@@ -11,5 +11,5 @@ class A
 	end
 end
 
-value = A.new("square", 8)
+value = Variable.new("square", 8)
 puts value.wide
