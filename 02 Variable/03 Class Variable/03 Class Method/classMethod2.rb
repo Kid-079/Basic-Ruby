@@ -1,12 +1,12 @@
 #! /usr/local/bin/ruby
 
-class A
-	def A.data(length, width)
+class Variable
+	def Variable.data(length, width)
 		value = length * width
 	end
 end
 
-puts A.data(5, 5)
+puts Variable.data(5, 5)
 
 
 
