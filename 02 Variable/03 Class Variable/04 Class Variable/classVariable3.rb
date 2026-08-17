@@ -1,26 +1,26 @@
 #! /usr/local/bin/ruby
 
-class A
-	@@value_A = 0
+class Character
+	@@total_character = 0
 	def initialize(names, address)
-		@a_names   = names
-		@a_address = address
+		@character_names   = names
+		@character_address = address
 	end
 
 	def show_data()
-		puts "Name    : #@a_names"
-		puts "Address : #@a_address"
+		puts "Name    : #@character_names"
+		puts "Address : #@character_address"
 	end
 
 	def id_Number()
-		@@value_A += 1
-		puts "id Number : #{@@value_A}"
+		@@total_character += 1
+		puts "id Number : #{@@total_character}"
 	end
 end
 
 # Create Object
-person1 = A.new("name_A", "123")
-person2 = A.new("name_B", "456")
+person1 = Character.new("Write__Name_1", "not_detected")
+person2 = Character.new("Write__Name_2", "not_detected")
 
 # Call Methods
 person1.id_Number()
