@@ -2,25 +2,25 @@
 
 
 # 1
-# class A
+# class Stronger
 # 	class << self
-# 		def hello
-# 			"Hello, Hello"
+# 		def hope
+# 			"Dont Lose Hope Everything Will Be Alright"
 # 		end
 # 	end
 # end
 
-# puts A.hello
+# puts Stronger.hope
 
 
 #2
-class A
-	def self.hello
-		"Hello, Hello!"		
+class Stronger
+	def self.wonderful
+		"Teach Yourself To Be Stronger Than Anyone"		
 	end
 end
 
-puts A.hello
+puts Stronger.wonderful
 
 
 =begin
