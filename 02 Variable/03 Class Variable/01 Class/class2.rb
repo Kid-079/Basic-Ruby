@@ -6,7 +6,7 @@ class Name
 	end
 
 	def text
-		puts "Do Your Best And Forget The Rest, " + @name + "!"
+		puts "Be Kind And Feel Happy " + @name + "!"
 	end
 end
 
