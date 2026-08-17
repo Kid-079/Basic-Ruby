@@ -1,20 +1,20 @@
 #! /usr/local/bin/ruby
 
 class Identity
-	@@value_A = 0
+	@@total_subject = 0
 	def initialize(names, address)
-		@a_names   = names
-		@a_address = address
+		@subject_names   = names
+		@subject_address = address
 	end
 
 	def show_data()
-		puts "Name    : #@a_names"
-		puts "Address : #@a_address"
+		puts "Name    : #@subject_names"
+		puts "Address : #@subject_address"
 	end
 
 	def id_Number()
-		@@value_A += 1
-		puts "id Number : #{@@value_A}"
+		@@total_subject += 1
+		puts "id Number : #{@@total_subject}"
 	end
 end
 
