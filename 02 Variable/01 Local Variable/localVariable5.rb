@@ -1,29 +1,29 @@
 #! /usr/local/bin/ruby
 
-STRING = 'ABCD'              # Variable Constant
+STRING = 'EVERYTHING HAS BEAUTY, BUT NOT EVERYONE SEES IT!'              # Variable Constant
 
-class A 
+class Value_A
 	STRING = proc {'EFGH'}
 	def data
 		::STRING + '1234'    # Variable Global  
 	end
 end
 
-class B
+class Value_B
 	STRING = '5678'
 	def data
 		STRING               # Variable Local
 	end
 end
 
-puts A.new.data
-# puts B.new.data
+puts Value_A.new.data
+# puts Value_B.new.data
 
-# puts Object::STRING + B::STRING
-# puts B::STRING + STRING
-# puts A::STRING
-# puts A::STRING.call + B::STRING
+# puts Object::STRING + Value_B::STRING
+# puts Value_B::STRING + STRING
+# puts Value_A::STRING
+# puts Value_A::STRING.call + Value_B::STRING
 
 
-# puts B::STRING
-puts A::STRING.call
+# puts Value_B::STRING
+puts Value_A::STRING.call
