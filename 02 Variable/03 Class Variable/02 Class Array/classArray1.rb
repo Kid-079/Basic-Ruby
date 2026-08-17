@@ -1,12 +1,12 @@
 #! /usr/local/bin/ruby
 
-class A
+class Variable
 	def number 
 		(0..5).to_a
 	end
 end
 
-array = A.new
+array = Variable.new
 
 data = array.number
 
