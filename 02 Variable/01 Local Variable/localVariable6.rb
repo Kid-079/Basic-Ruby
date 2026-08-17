@@ -1,15 +1,15 @@
 #! /usr/local/bin/ruby
 
-STRING_1 = 'ABCD'
+STRING_1 = 'EVERY STORM CALMS DOWN, WHEN YOU STAY TRUE TO YOURSELF!'
 
-class A
+class Beauty
 	STRING_2 = proc {'EFGH'}
 	def data
 		::STRING_1   # Variable Global  
 	end
 end
 
-puts A.new.data
-puts A::STRING_2.call
+puts Beauty.new.data
+puts Beauty::STRING_2.call
 
-p A.singleton_class.ancestors
+p Beauty.singleton_class.ancestors
