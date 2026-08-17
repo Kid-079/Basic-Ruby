@@ -14,8 +14,8 @@ class Sensation
 	end
 end
 
-person1 = Sensation.new("write_character_name_1 -> ")
-person2 = Sensation.new("write_character_name_2 -> ")
+person1 = Sensation.new("write_some_name_1 -> ")
+person2 = Sensation.new("write_some_name_2 -> ")
 
 puts person1.text
 puts person2.text
