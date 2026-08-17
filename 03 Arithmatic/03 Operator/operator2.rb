@@ -2,14 +2,14 @@
 
 VALUE = 0           # Variable Constant
 
-module A   
+module Arithmatic   
 	::VALUE = 1     # Variable Global
 	# VALUE = 2     # Variable Local
 
 end
 
 puts VALUE          
-puts A::VALUE     
+puts Arithmatic::VALUE     
 
 
 
