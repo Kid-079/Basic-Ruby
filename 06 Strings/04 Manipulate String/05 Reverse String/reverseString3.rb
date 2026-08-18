@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-font = "TUPURES"
+string = "TUPURES"
 
-print font.reverse
+print string.reverse
 print "\n"
