@@ -2,6 +2,7 @@
 
 puts 'escape character "\\"'
 puts 'That\'s Cool'
+puts 'That\'s Not Cool'
 
 =begin
 
