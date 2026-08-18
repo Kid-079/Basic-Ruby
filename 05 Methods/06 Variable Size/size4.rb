@@ -8,7 +8,7 @@ def array(names, number, *data)
 	total
 end
 
-names = "ABC"
+names = "STRUGGLE"
 #names = "FIGHTING"
 puts names
 
