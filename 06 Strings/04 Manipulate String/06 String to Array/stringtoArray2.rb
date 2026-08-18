@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "This String, This Not Character"
+string = "Life Is A Journey, Enjoy The Ride"
 
 print string.split
 print "\n"
