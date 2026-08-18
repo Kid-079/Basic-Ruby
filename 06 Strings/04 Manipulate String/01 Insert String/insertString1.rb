@@ -1,10 +1,10 @@
 #! /usr/local/bin/ruby
 
-string = "Hllo"
+string = "Jrney"
 
-print string.insert 1, "e"
+print string.insert 1, "ou"
 print "\n"
-print string.insert 5, " HELLO"
+print string.insert 7, " Begin With A Passion"
 print "\n"
-print string.insert 1, "e" * 4
+print string.insert 1, "o" * 5 + "u"
 print "\n"
