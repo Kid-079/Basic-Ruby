@@ -1,9 +1,9 @@
 #! /usr/local/bin/ruby
 
-string1 = "HELLO" " " "Hello"
-string2 = "HELLO" + " " + "Hello"
-string3 = "HELLO" << " " << "Hello"
-string4 = "Hello ".concat "HELLO"
+string1 = "JOURNEY" " " "Dreams"
+string2 = "JOURNEY" + " " + "Dreams"
+string3 = "JOURNEY" << " " << "Dreams"
+string4 = "Journey ".concat "DREAMS"
 
 print string1
 print "\n"
