@@ -8,5 +8,5 @@ def array(*data)
 end
 
 puts array
-puts array('A','B')
-puts array(5, 2.5, "ABC")
+puts array('FIGHTING','STRUGGLE')
+puts array(5, 2.5, "SPIRIT")
