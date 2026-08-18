@@ -1,8 +1,8 @@
 #! /usr/local/bin/ruby
 
-string = "This is a Ssstring"
+string = "Life Is A Jjjjjjjjourney, Enjoy Tttttttthe Ride"
 
-print string.gsub "Sss", "S"
+print string.gsub "Jjjjjjjj", "J"
 print "\n"
-print string.gsub "Sss", "S"
+print string.gsub "Tttttttt", "T"
 print "\n"
