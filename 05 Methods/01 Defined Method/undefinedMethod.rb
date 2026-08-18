@@ -1,5 +1,5 @@
 #! /usr/local/bin/ruby
 
-undef hello
+undef journey
 
-hello
+journey
