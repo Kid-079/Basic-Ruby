@@ -1,8 +1,8 @@
 #! /usr/local/bin/ruby
 
-string = "This is a String."
+string = "Gratitude Sweetens Even The Smallest Moments"
 
-puts string[5..7]
+puts string[10..14]
 puts string[-7..-2]
 
 print string.empty?
