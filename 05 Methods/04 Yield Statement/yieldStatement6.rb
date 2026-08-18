@@ -10,7 +10,7 @@ def string
 	end
 end
 
-string {puts "Hello Hello"}
+string {puts "Trust The Process Enjoy The Journey"}
 #string {puts "If I Cannot Do Great Things, I Can Do Small Things In A Great Way"}
 
 
