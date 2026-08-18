@@ -1,7 +1,7 @@
 #! /usr/local/bin/ruby
 
-font = "SALAM"
+string = "SALAM"
 
-font.reverse!
+string.reverse!
 
 p font
