@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "\t\tThis is a String\n"
+string = "\t\tLife Is A Journey, Enjoy The Ride\n"
 
 # Create Whitespace
 print string.lstrip
