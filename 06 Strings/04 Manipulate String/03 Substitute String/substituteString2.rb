@@ -1,5 +1,5 @@
 #! /usr/local/string/ruby
 
-string = "This is a String"
+string = "Life Is A Journey"
 
-puts string.replace "This is Not Character"
+puts string.replace "Life Is An Adventure"
