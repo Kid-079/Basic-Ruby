@@ -1,4 +1,4 @@
 #! /usr/local/bin/ruby
 
-A = "Hello Hello"
-puts A
+dreams = "Let Our Dreams, Be Our Wings"
+puts dreams
