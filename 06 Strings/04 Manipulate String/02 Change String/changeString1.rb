@@ -1,10 +1,10 @@
 #! /usr/local/bin/ruby
 
-string1 = "Hello, HELLO " * 3
-string2 = "Hello, HELLO "
-string3 = "hello, hello "
-string4 = "hello, hello "
-string5 = "heLLo, HellO "
+string1 = "Inspiration, PASSION - " * 4
+string2 = "Inspiration, PASSION "
+string3 = "inspiration, passion "
+string4 = "insPirAtIon, pAsSiOn "
+string5 = "inSpiRaTioN, PaSSioN "
 
 puts string1
 puts string2.downcase
