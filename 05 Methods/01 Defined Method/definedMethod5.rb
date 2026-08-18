@@ -3,6 +3,6 @@
 def expression
 	"Congratulations"
 end
-alias a expression
+alias journey expression
 
-puts a
+puts journey
