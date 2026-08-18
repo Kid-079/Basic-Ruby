@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "ABCDE"
+string = "LIFE IS BEAUTIFUL STRUGGLE"
 
-string.delete!("E")
+string.delete!("STRUGGLE")
 puts string
