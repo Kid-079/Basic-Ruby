@@ -1,10 +1,10 @@
 #! /usr/local/bin/ruby
 
-class A
+class Journey
 	def expression
 		"Congratulations"
 	end
-	alias_method :hello, :expression
+	alias_method :dreams, :expression
 end
 
-puts A.new.hello
+puts journey.new.dreams
