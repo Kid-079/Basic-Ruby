@@ -1,8 +1,8 @@
 #! /usr/local/bin/ruby
 
-a = "%s, %s" % ["Hello", "Hello!"]
+inspiration = "%s, %s" % ["Journey", "Dream!"]
 
-puts a
+puts inspiration
 
 
 # % -> Method from the String Class that format a string
