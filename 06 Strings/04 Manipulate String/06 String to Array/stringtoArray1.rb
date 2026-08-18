@@ -1,8 +1,8 @@
 #! /usr/local/bin/ruby
 
-number = "12345"
+string = "Life Is A Journey Enjoy The Ride"
 
-print number.split
+print string.split
 print "\n"
-print number.split(//)
+print string.split(//)
 print "\n"
