@@ -2,7 +2,7 @@
 
 class Journey
 	def expression
-		"Congratulations"
+		"Trust The Process, Enjoy The Journey"
 	end
 	alias_method :dreams, :expression
 end
