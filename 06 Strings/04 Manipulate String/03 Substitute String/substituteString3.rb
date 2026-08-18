@@ -1,16 +1,16 @@
 #! /usr/local/bin/ruby
 
-string = "This is String"
+string = "Life Is A Journey"
 
 # Same Object
 puts string.object_id
-string.replace "This is Character"
+string.replace "Life Is An Adventure"
 puts string.object_id
 puts string
 
 
 # Different Object
-string = "This is String"
+string = "Life Is A Journey"
 puts string.object_id
-string = "This is Character"
+string = "Life Is An Adventure"
 puts string.object_id
