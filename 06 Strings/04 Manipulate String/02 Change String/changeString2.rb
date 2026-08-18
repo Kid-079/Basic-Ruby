@@ -1,18 +1,18 @@
 #! /usr/local/bin/ruby
 
-string1 = "This is a String"
-string2 = "This is a String"
-string3 = "This is a String"
-string4 = "This is a String"
-string5 = "This is a String"
-string6 = "This is a String"
+string1 = "Life Is A Journey"
+string2 = "Life Is A Journey"
+string3 = "Life Is A Journey"
+string4 = "Life Is A Journey"
+string5 = "Life Is A Journey"
+string6 = "Life Is A Journey"
 
-string1["a String"]= "Not Character"
+string1["A Journey"]= "An Adventure"
 string2[4]= "... "
-string3[16]= ".!"
-string4[8,8]= "Not Character"
-string5[8..15]= "Charlie"
-string6[/a String$/]= "Not Charlie"
+string3[17]= ".!"
+string4[8,9]= "An Adventure"
+string5[0..-9]= "Stay Patient And Trust Our"
+string6[/A Journey$/]= "An Adventure"
 
 p string1
 p string2
