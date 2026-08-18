@@ -4,4 +4,4 @@ def multiply(string, count)
 	puts string * count
 end
 
-multiply("Hello ", 2)
+multiply("Enjoy Life And Do Whats Make You Happy ", 2)
