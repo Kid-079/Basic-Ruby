@@ -1,5 +1,5 @@
 #! /usr/local/bin/ruby
 
-string = "This is a String"
+string = "Gratitude Sweetens Even The Smallest Moments"
 string.scan(/\w+/)
 puts string
