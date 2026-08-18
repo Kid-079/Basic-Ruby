@@ -1,7 +1,7 @@
 #! /usr/local/bin/ruby
 
 def expression
-	"Congratulations"
+	"Trust The Process, Enjoy The Journey"
 end
 alias journey expression
 
