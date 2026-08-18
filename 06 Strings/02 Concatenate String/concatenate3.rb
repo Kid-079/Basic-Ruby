@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-A = "Hello "
-B = "Hello!"
+A = "Journey "
+B = "Dreams!"
 
 puts A + B 
