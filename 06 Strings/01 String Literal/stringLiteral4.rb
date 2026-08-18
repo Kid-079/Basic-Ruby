@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-printf("Hello, %s", "Hello\n")
+printf("Journey, %s", "Dream\n")
 
 
 # % -> Method from the String Class that format a string
