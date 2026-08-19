@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = ""
+string = "Be Patient, Some Wounds Take Time To Heal!"
 # string = "Every Chapter Of Life Has Its Own Beauty"
 # string = "Life Is A Journey, Enjoy The Ride"
 
