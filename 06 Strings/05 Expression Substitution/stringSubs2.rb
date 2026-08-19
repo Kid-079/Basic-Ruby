@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-firstName = "A"
-lastName = "B"
+firstName = "Write__FirstName"
+lastName = "Write__LastName"
 
 puts "Name : #{firstName + lastName}"
