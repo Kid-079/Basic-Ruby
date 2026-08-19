@@ -1,8 +1,8 @@
 #! /usr/local/bin/ruby
 
-string = "Life Is A Journey, Enjoy The Ride"
-# string = "This is not Character"
-# string = "Hello Hello"
+string = ""
+# string = "Every Chapter Of Life Has Its Own Beauty"
+# string = "Life Is A Journey, Enjoy The Ride"
 
 if (string =~ /String/)
 	puts "STRING 1"
