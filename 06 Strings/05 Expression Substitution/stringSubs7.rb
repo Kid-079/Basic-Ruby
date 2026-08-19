@@ -1,3 +1,3 @@
 #! /usr/bin/env ruby
 
-puts "Hello, #{ARGV[0]}"
+puts "Every Chapter Of Life Has Its Own Beauty, #{ARGV[0]}"
