@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-number = %w[A B C D E]
+number = %w[K E R U P U K]
 
 # ACCESS SPECIFIC ELEMENT
 print number[0]
