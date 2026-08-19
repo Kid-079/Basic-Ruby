@@ -2,7 +2,7 @@
 
 string = []
 
-"Hello".each_byte {|a| p string << a}
+"Karabikang".each_byte {|a| p string << a}
 print "\n"
 
 p string
