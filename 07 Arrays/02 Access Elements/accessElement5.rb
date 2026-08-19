@@ -1,19 +1,19 @@
 #! /usr/local/bin/ruby
 
-number = %w[K E R U P U K]
-# number = %w[L U M P I A]
-# number = %w[E M P I N G]
-# number = %w[S E R A B I]
-# number = %w[P E C E L]
+names = %w[K E R U P U K]
+# names = %w[L U M P I A]
+# names = %w[E M P I N G]
+# names = %w[S E R A B I]
+# names = %w[P E C E L]
 
 # ACCESS SPECIFIC ELEMENT
-print number[2]
+print names[2]
 print "\n"
-print number[3]
+print names[3]
 print "\n"
-print number[5]
+print names[5]
 print "\n"
-print number[0]
+print names[0]
 print "\n"
-print number[4]
+print names[4]
 print "\n"
