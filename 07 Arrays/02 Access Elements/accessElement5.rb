@@ -7,9 +7,13 @@ number = %w[K E R U P U K]
 # number = %w[P E C E L]
 
 # ACCESS SPECIFIC ELEMENT
+print number[2]
+print "\n"
+print number[3]
+print "\n"
+print number[5]
+print "\n"
 print number[0]
 print "\n"
-print number[1]
-print "\n"
-print number[2]
+print number[4]
 print "\n"
