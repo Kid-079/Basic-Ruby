@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-hex = "ABCDE"
+hex = "KARABIKANG"
 
 print hex.unpack("C*")
 print "\n"
