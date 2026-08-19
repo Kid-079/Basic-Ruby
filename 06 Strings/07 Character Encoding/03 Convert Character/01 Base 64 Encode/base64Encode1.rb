@@ -5,3 +5,4 @@ def encode64(binary)
 end
 
 print encode64 "Kerak Telor"
+print encode64 "Ongol-Ongol"
