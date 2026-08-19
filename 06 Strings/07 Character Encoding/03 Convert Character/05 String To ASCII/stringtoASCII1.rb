@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "ABC"
+string = "BOLU PANDAN"
 
 print string.unpack("c*")
 print "\n"
