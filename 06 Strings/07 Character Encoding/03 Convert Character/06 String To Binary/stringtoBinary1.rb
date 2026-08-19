@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "A"
+string = "LEMET"
 
 print string.unpack('b*')
 print "\n"
