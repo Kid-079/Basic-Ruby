@@ -1,9 +1,9 @@
 #! /usr/local/bin/ruby
 
-string = "Kuah Tahu 20"
+string = "KuahTahu 50"
 
 # CREATED OBJECT USE SPECIAL CHARACTER (SYMBOLS)
-string.match /(?<name>\w+) (?<age>\d+)/
+string.match /(?<name>\w+) (?<value>\d+)/
 
 puts string
 
