@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "This is a String"
+string = "Every Chapter Of Life Has Its Own Beauty"
 
 if string.match(/a/)
 	puts "STRING"
