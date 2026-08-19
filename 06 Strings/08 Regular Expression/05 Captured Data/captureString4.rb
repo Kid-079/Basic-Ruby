@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "name_A 20"
+string = "Kuah Tahu 20"
 
 # CREATED OBJECT USE SPECIAL CHARACTER (SYMBOLS)
 string.match /(?<name>\w+) (?<age>\d+)/
