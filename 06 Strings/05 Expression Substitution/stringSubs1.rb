@@ -1,5 +1,5 @@
 #! /usr/local/bin/ruby
 
-A = "Hello!"
+Inspiration = "Be Patient, Some Wounds Take Time To Heal!"
 
-puts "Hello, #{A}"
+puts "Every Chapter Of Life Has Its Own Beauty. #{Inspiration}"
