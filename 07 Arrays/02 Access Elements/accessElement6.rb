@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-array = ["abc", 20, :name, [1,2,3]]
+array = ["kerupuk", 50, :pecel, [1,2,3]]
 
 print array
 print "\n"
