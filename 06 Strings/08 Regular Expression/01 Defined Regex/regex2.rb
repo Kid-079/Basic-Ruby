@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "This is a String"
+string = "Life Is A Journey, Enjoy The Ride"
 # string = "This is not Character"
 # string = "Hello Hello"
 
