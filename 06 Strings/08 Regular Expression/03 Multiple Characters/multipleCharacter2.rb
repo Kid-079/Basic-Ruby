@@ -4,10 +4,9 @@ def number?(string)
 	!!(string =~ /^\d{1,2}\.\d{1,2}\.\d{1,2}\.\d{1,2}$/)
 end
 
-puts number?("123.123.1.2")  
-puts number?("1234.5678")    
-puts number?("12.34.56.78")    
-puts number?("12.34.56")    
+puts number?("66.97.76.65.68.79")          # FALSE
+puts number?("115.69.109.85.114")          # FALSE
+puts number?("98.65.116.97.103.111.82")    # FALSE   
 
 
 =begin
