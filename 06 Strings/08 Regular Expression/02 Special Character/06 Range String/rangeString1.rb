@@ -5,6 +5,6 @@ def names(string)
 end
 
 # Return Indeks
-puts names("spring")    # string found, i => indeks 3
+puts names("spring")     # string found, i => indeks 3
 puts names("gxtzplkce")  # string found, e => indeks 8
 puts names("zzzzzzzz")   # string not found
