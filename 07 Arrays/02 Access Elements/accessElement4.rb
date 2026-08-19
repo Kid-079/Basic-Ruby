@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-array = ["a","b","c"]
+array = ["s","e","m","u","r","j","e","n","g","k","o","l"]
 #array = ["b","o","l","u","k","u","k","u","s"]
 #array = ["o","n","c","o","m"]
 
