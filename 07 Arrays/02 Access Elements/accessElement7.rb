@@ -7,16 +7,18 @@ print array
 print "\n"
 
 # CHECK ELEMENTS
-print array.include? "A"
+print array.include? "L"
 print "\n"
-print array.include? ("A")
+print array.include? ("Z")
+print "\n"
+print array.include? ("M")
 print "\n"
 
 print array.slice(0)
 print "\n"
-print array.slice(0, 3)
+print array.slice(0, 4)
 print "\n"
-print array.slice(0..3)
+print array.slice(0..4)
 print "\n"
-print array.slice(0...3)
+print array.slice(0...8)
 print "\n"
