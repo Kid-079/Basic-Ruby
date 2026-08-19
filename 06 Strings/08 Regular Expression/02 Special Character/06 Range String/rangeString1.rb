@@ -6,5 +6,5 @@ end
 
 # Return Indeks
 puts names("hi")    # string found, i => indeks 1
-puts names("hhhe")  # string found, e => indeks 3
+puts names("gxtzplkce")  # string found, e => indeks 8
 puts names("zzzzzzzz")   # string not found
