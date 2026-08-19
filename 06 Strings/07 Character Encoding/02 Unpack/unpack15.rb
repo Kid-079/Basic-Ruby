@@ -14,15 +14,15 @@ print "\xce\x3b\x2f\xa7\xc7".unpack('cC')
 print "\n"
 
 
-#print "\x61\x62\x63\x64\x65".unpack('AAAAAAA')
+#print "\x61\x62\x63\x64\x65".unpack('AAAAAAAA')
 #print "\n"
 #print "\x61\x62\x63\x64\x65".unpack('SSS')
 #print "\n
 #print "\x61\x62\x63\x64\x65".unpack('cCccCc')
 #print "\n
-#print "\xf8\xa4\x1a2\x23a\xdd".unpack('AAAAAAA')
+#print "\xf8\xa4\x1a2\x23a\xdd".unpack('AAAAAAAA')
 #print "\n
-#print "\xf8\xa4\xe4\x5c\xf0".unpack('AAAAAAA')
+#print "\xf8\xa4\xe4\x5c\xf0".unpack('AAAAAAAA')
 #print "\n
 #print "\xfe\x30\x5b\x4a".unpack('AAAA')
 #print "\n
