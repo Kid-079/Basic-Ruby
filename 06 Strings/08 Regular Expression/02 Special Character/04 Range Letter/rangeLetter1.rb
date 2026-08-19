@@ -4,8 +4,8 @@ def letter(string)
 	string =~ /[a-z]/
 end
 
-puts letter("123b")    # Return Indeks
-puts letter("123")     # String Not Found
+puts letter("73239567o")    # Return Indeks
+puts letter("51757357")     # String Not Found
 
 
 =begin
