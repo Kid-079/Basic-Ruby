@@ -9,9 +9,9 @@ print "\n"
 # CHECK ELEMENTS
 print array.include? "L"
 print "\n"
-print array.include? ("Z")
-print "\n"
 print array.include? ("M")
+print "\n"
+print array.include? ("Z")
 print "\n"
 
 print array.slice(0)
