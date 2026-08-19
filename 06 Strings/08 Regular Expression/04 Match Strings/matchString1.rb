@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "This is String"
+string = "Do Your Best And Forget The Rest"
 
 puts string.match /\w{6}/     # Match String
 puts string.match /\w{15}/    # Not Match
