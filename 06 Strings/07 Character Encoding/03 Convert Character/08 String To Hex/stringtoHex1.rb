@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-hex = "ABC"
+hex = "ONGOL-ONGOL"
 
 print hex.unpack("H*")
 print "\n"
