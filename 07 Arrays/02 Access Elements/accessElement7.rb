@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-array = ["abc", 20, :name, [1,2,3], "A", "B", "C", "D", "E"]
+array = ["kerupuk", 50, :pecel, [1,2,3], "A", "B", "C", "D", "E"]
 
 # SHOW ELEMENT
 print array
