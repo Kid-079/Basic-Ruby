@@ -1,7 +1,7 @@
 #! /usr/local/bin/ruby
 
 # CREATE ARRAY
-string = Array.new(5, "string")
+string = Array.new(5, "Pecel")
 #string = Array.new(10, "Perkedel")
 #string = Array.new(10, "Bakwan")
 #string = Array.new(5, "Oncom")
