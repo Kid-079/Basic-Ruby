@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "ABCDE\n"
+string = "KETOPRAK\n"
 
 def string.-@
 	to_s
