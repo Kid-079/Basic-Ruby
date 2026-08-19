@@ -1,14 +1,14 @@
 #! /usr/local/bin/ruby
 
-puts %{Hello Hello}
-puts %!Hello Hello!
-puts %[Hello Hello]
-puts %{Hello Hello}
-puts %Q{Hello Hello}
-puts %q{Hello Hello}
-puts %q/hello hello/
-puts %q-hello hello-
-puts %q(hello hello)
+puts %{Journey Dreams}
+puts %!Struggle Strength!
+puts %[Dreams Struggle]
+puts %{Strength Journey}
+puts %Q{Journey Dreams}
+puts %q{Dreams Strength}
+puts %q/strength struggle/
+puts %q-dream journey-
+puts %q(struggle strength)
 
 
 
