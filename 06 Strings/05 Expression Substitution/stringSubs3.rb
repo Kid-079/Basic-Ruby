@@ -1,6 +1,8 @@
 #! /usr/local/bin/ruby
 
-puts "Value : #{2*2*2}"
+puts "Value : #{2*4*6}"
+puts "Value : #{5*7*9}"
+puts "Value : #{8*4*2}"
 
 
 =begin
