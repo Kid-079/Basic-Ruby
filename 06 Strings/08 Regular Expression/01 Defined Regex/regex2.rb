@@ -2,7 +2,7 @@
 
 string = "Life Is A Journey, Enjoy The Ride"
 # string = "Every Chapter Of Life Has Its Own Beauty"
-# string = "Be Patient, Some Wounds Take Time To Heal!"
+# string = "Be Patient, Some Wounds Take Time To Heal!!!!!"
 
 if (string =~ /Journey/)
 	puts "Enjoy The Ride"
