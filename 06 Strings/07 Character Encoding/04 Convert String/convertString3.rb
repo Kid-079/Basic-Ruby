@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = "ABCDE"
+string = "KETOPRAK"
 
 def string.-@
 	to_sym
