@@ -1,7 +1,7 @@
 #! /usr/local/bin/ruby
 
-a = "123"
-b = 123
+a = "KETOPRAK"
+b = 761171098010565
 
 puts a.class
 puts b.class
