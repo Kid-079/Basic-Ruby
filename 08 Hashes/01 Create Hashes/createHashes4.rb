@@ -3,7 +3,7 @@
 $a = ", "
 
 string = Hash.new("data")
-string = {"a" => "ABC", "b" => "abcde"}
+string = {"a" => "BATAGOR", "b" => "lumpia", "c" => "Emping", "d" => "Dadar Kriwil", "e" => ""}
 
 # CHECK HASHES
 puts string.empty?
