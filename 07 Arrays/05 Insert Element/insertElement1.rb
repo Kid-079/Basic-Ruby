@@ -7,10 +7,10 @@ print array
 print array
 print "\n"
 
-array.push "P" "E" "D" "A" "S"
+array.push "E" "M" "P" "I" "N" "G"
 print array
 print "\n"
 
-array.push "P", "E", "D", "D", "S"
+array.push "P", "E", "D", "A", "S"
 print array
 print "\n"
