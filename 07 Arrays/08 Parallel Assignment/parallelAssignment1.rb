@@ -1,7 +1,7 @@
 #! /usr/local/bin/ruby
 
 # Paralel Assignment
-a, b, c, d, e = "LUMPIA", 5.5, 10, 1.5, "emping"
+a, b, c, d, e = "LUMPIA", 5.5, 10, 1.5, "Emping"
 
 puts a
 puts b
