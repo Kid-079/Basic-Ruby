@@ -1,8 +1,8 @@
 #! /usr/local/bin/ruby
 
-array = %w[A B C D E]
+array = %w[L U M P I A P E D A S]
 
-array[4..9] = "1", "2", "3", "4", "5"
+array[5..10] = "62", "33", "100", "64", "36"
 
 print array
 print "\n"
