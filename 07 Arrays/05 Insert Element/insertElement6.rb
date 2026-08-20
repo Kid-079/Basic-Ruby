@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-array = ["A" "B" "C" "D" "E"]
+array = ["E" "M" "P" "I" "N" "G"]
 
 # array.to_s
 array.join 
