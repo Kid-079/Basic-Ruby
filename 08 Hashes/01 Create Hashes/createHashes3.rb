@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-string = Hash["a" => [1, "abc"], "b" => [1, 2, 3, 4, 5], "c" => ["hello", 50, "AB"]]
+string = Hash["a" => [30, "batagor"], "b" => [1, 2, 3, 4, 5], "c" => ["Lumpia", 55, "EMPING"]]
 
 print string
 print "\n"
