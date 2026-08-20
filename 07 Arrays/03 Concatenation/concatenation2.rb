@@ -1,10 +1,10 @@
 #! /usr/local/bin/ruby
 
-array1 = %w[A B C D E]
-array2 = %w[1 2 3 4 5]
+array1 = %w[L U M P I A]
+array2 = %w[8 1 6 3 7 5]
 
-array1 << "F" << "G"
-array2 << "abc"
+array1 << "P" << "E" << "D" << "A" << "S"
+array2 << "lumpia pedas"
 
 print array1
 print "\n"
