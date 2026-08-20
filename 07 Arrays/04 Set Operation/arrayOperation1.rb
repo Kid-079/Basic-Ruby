@@ -1,7 +1,7 @@
 #! /usr/local/bin/ruby
 
-a = ["A", "B", "C", "D", "E"]
-b = ["C", "D", "E", "F", "G"]
+a = ["E", "M", "P", "I", "N", "G"]
+b = ["B", "A", "T", "A", "G", "O", "R"]
 
 print a & b   # Show Duplicate Element
 print "\n"
