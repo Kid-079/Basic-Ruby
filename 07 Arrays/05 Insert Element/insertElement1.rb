@@ -1,16 +1,16 @@
 #! /usr/local/bin/ruby
 
-array = %w[A B C D E]
+array = %w[L U M P I A]
 
 array.pop       # FILO
 print array
 print array
 print "\n"
 
-array.push "F" "G"
+array.push "P" "E" "D" "A" "S"
 print array
 print "\n"
 
-array.push "F", "G"
+array.push "P", "E", "D", "D", "S"
 print array
 print "\n"
