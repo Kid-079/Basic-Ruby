@@ -1,9 +1,12 @@
 #! /usr/local/bin/ruby
 
-array = ["A", "B", "C", "D", "E"]
+array = ["S", "E", "M", "U", "R", "J", "E", "N", "G", "K", "O", "L"]
 
-array.delete ("B")
-array.delete "C"
+array.delete ("S")
+array.delete "E"
+array.delete ("M")
+array.delete "U"
+array.delete ("R")
 
 print array
 print "\n"
