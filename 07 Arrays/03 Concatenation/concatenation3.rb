@@ -1,7 +1,7 @@
 #! /usr/local/bin/ruby
 
-a = %w[abc A B C]
-b = %w[1 2 3 4 5]
+a = %w[lumpia P E D A S]
+b = %w[8 1 6 3 7 5]
 
 array = a.concat(b)
 
