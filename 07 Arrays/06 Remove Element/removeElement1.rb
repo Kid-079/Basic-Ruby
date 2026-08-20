@@ -1,6 +1,6 @@
 #! /usr/local/bin/ruby
 
-number = [1, 2, 3, 4, 5]
+number = [124, 51, 109, 80, 69, 50]
 
 number.shift   # FIFO
 
