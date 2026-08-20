@@ -7,5 +7,5 @@ print string1
 print "\n"
 print "#{string1[:status]}"
 print "\n"
-print "#{string2[3]}"
+print "#{string2[5]}"
 print "\n"
