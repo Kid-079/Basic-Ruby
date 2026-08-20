@@ -1,7 +1,7 @@
 #! /usr/local/bin/ruby
 
-a = %w[A B C D E]
-b = %w[1 2 3 4 5]
+a = %w[E M P I N G]
+b = %w[3 2 7 5 9 0]
 
 array = a + b
 
