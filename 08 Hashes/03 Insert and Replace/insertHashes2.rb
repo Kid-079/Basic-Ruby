@@ -10,7 +10,7 @@ print string.empty?
 print "\n"
 
 # INSERT HASHES
-string.store(10, "hello")
+string.store(10, "batagor")
 print string
 print "\n"
 print string.empty?
