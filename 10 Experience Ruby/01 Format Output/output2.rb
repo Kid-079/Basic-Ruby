@@ -1,5 +1,5 @@
 #! /usr/local/bin/ruby
 
-data = ["abc", 20, 100]
+data = ["Terang Bulan", 20, 100]
 
-print "Hello" % data
+print "Life Is A Journey, Enjoy The Ride" % data
