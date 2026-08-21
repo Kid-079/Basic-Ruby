@@ -2,7 +2,7 @@
 
 data = IO.new(1, "w")
 
-data << "ABC" << "DEF" << "\n"
+data << "Do Your Best" << "Forget The Rest" << "\n"
 
 data.flush       # Write String to the Stream
 puts data.flush
