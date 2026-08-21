@@ -3,7 +3,7 @@
 require 'monitor'
 
 names = TkRoot.new do
-	title "Hello"
+	title "Do The Best And Forget The Rest"
 end
 
 Tk.mainloop
