@@ -1,7 +1,7 @@
 #! /usr/local/bin/ruby
 
 string1 = Hash[:name, "BUJANG", :type, "info", :status, "user-bujang"]
-string2 = Hash[1 => "ABC", 2 => "abc", 3 => "Hello"]
+string2 = Hash[1 => "Dadar Kriwil", 2 => "Kerak Telor", 3 => "PASTEL", 4 => "Emping", 5 => "batagor", 6 => "TERANG BULAN", 7 => "Dadar Kriwil", 8 => "Ongol-Ongol", 9 => "lapis legit", 10 => "URAP" ]
 
 print string1
 print "\n"
