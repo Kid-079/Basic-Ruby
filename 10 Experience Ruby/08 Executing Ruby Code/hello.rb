@@ -1,4 +1,4 @@
 #! /usr/local/bin/ruby
 
-puts 'Hello'
+puts 'Life Is A Journey, Enjoy The Ride'
 
