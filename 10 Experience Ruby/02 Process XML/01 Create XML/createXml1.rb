@@ -6,8 +6,8 @@ include REXML
 
 file = <<XML
 <file>
-	<name><first>A</first><last>B</last></name>
-	<status>user-bujang</status>
+	<name><first>Journey</first><last>Dreams</last></name>
+	<status>user-dreamer</status>
 	<info>715184725260</info>
 </file>
 XML
