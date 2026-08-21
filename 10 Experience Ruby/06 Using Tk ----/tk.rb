@@ -3,7 +3,7 @@
 require 'tk'
 
 a = TkButton.new{
-	text 'Hello'
+	text 'Do The Best And Forget The Rest'
 	pack
 }
 
