@@ -1,5 +1,5 @@
 #! /usr/local/bin/ruby
 
-string = {1 => "123", 2 => "abc", 3 => "Abcde", 4 => "12345"}
+string = {1 => "Dadar Kriwil", 2 => "79926869", 3 => "Emping", 4 => "244877568214", 5 => "Lumpia", 6 => "715184725260", 7 => "PASTEL", 8 => "5785685171", 9 => "8433875255", 10 => "Ongol-Ongol"}
 
-string.delete(5) {|key| puts "Wrong Key"}
+string.delete(15) {|key| puts "Wrong Key"}
