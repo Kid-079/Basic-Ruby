@@ -2,9 +2,9 @@
 
 data = IO.new(1, "w")
 
-data.puts "Input Output"
+data.puts "Life Is A Journey, Enjoy The Ride"
 
-$stdout.puts "Hello"
+$stdout.puts "DO YOUR BEST AND FORGET THE REST"
 
 
 
