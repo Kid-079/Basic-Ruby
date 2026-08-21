@@ -1,13 +1,13 @@
 #! /usr/local/bin/ruby
 
 string1 = Hash[:name, "BUJANG", :type, "info", :status, "user-bujang"]
-string2 = Hash[1 => "Dadar Kriwil", 2 => "Kerak Telor", 3 => "PASTEL", 4 => "Emping", 5 => "batagor", 6 => "TERANG BULAN", 7 => "Dadar Kriwil", 8 => "Ongol-Ongol", 9 => "lapis legit", 10 => "URAP" ]
+string2 = Hash[1 => "Dadar Kriwil", 2 => "Kerak Telor", 3 => "PASTEL", 4 => "Emping", 5 => "batagor", 6 => "TERANG BULAN", 7 => "Lumpia", 8 => "Ongol-Ongol", 9 => "lapis legit", 10 => "URAP" ]
 
 print string1
 print "\n"
 
 # CHECK KEYS
-print string1.has_key? :ages
+print string1.has_key? :food
 print "\n"
 print string2.has_key? 1
 print "\n"
@@ -32,5 +32,5 @@ print "\n"
 # ACCESS SPECIFIED VALUES
 print "#{string1[:status]}"
 print "\n"
-print "#{string2[3]}"
+print "#{string2[6]}"
 print "\n"
