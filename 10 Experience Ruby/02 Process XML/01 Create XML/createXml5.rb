@@ -7,7 +7,7 @@ data = Document.new
 
 data << XMLDecl.new("1.0", "UTF-8")
 
-data << Comment.new("This is XML file")
+data << Comment.new("Life Is A Journey, Enjoy The Ride")
 
 data.add_element("name", {"lang" => "en"})
 
