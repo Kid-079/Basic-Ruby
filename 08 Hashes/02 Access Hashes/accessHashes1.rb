@@ -7,7 +7,7 @@ print string1
 print "\n"
 
 # CHECK KEYS
-print string1.has_key? :food
+print string1.has_key? :hobbby
 print "\n"
 print string2.has_key? 1
 print "\n"
