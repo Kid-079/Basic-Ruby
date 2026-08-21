@@ -1,4 +1,4 @@
 #! /usr/local/bin/ruby
 
-puts 'Life Is A Journey, Enjoy The Ride'
+puts 'Do The Best And Forget The Rest'
 
