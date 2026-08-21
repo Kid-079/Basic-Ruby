@@ -8,7 +8,7 @@ file = <<XML
 <file>
 	<name><first>A</first><last>B</last></name>
 	<status>user-bujang</status>
-	<info>12345</info>
+	<info>715184725260</info>
 </file>
 XML
 
