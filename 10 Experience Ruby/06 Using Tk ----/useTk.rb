@@ -2,11 +2,11 @@
 
 require 'monitor'
 
-TkRoot.new {title "Hello"}
+TkRoot.new {title "Journey"}
 
 TkLabel.new {
 	font TkFont.new('Likhan 20')
-	text "Hello, Hello"
+	text "Life Is A Journey, Enjoy The Ride"
 	width 50
 	width 50
 	fg 'aqua'
